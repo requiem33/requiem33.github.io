@@ -7,7 +7,7 @@ author:		requiem33
 header-img:	img/post-bg-1.png
 catalog:	true
 tags:
-	- GitHub
+ - GitHub
 ---
 
 ## Hey
